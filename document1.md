@@ -341,3 +341,11 @@ A^{T}B =<A,B>
 ->正定値関数
 
 https://masamunetogetoge.com/kernel-linearspeace#easy-footnote-bottom-6-670
+
+####　完備性とは
+距離空間 X が完備であるとは、
+X の任意のコーシー列が収束することをいう。
+
+#### コーシー列とは
+
+解析学におけるコーシー列（コーシーれつ、Cauchy sequence）は、数列などの列で、十分先のほうで殆ど値が変化しなくなるものをいう。基本列（きほんれつ、fundamental sequence）、正則列（せいそくれつ、regular sequence）[1]、自己漸近列（じこぜんきんれつ）[2]などとも呼ばれる。実数論において最も基本となる重要な概念の一つである。
