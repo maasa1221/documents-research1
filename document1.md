@@ -342,7 +342,8 @@ A^{T}B =<A,B>
 
 https://masamunetogetoge.com/kernel-linearspeace#easy-footnote-bottom-6-670
 
-####　完備性とは
+#### 完備性とは
+
 距離空間 X が完備であるとは、
 X の任意のコーシー列が収束することをいう。
 
