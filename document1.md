@@ -369,3 +369,9 @@ $∀ε>0, ∃N∈R, ∀m∈N, ∀n∈N:(m≥N, n≥N ⇒ |xm−xn|<ε)$
 ヒルベルト空間に写像するためには
 
 http://rikei-index.blue.coocan.jp/taidan/sukukan.html
+
+https://kaikiblog.com/kannbikyorikuukann/
+
+http://www2.math.kyushu-u.ac.jp/~hara/lectures/07/realnumbers.pdf
+
+https://www.math.nagoya-u.ac.jp/~hisamoto/2S/hisamoto-2S18-05.pdf
