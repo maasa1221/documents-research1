@@ -375,3 +375,9 @@ https://kaikiblog.com/kannbikyorikuukann/
 http://www2.math.kyushu-u.ac.jp/~hara/lectures/07/realnumbers.pdf
 
 https://www.math.nagoya-u.ac.jp/~hisamoto/2S/hisamoto-2S18-05.pdf
+
+何となくわかってはきた
+
+そろそろまとめたい
+
+https://math-fun.net/20180711/448/
