@@ -61,3 +61,9 @@ https://qiita.com/Sammy_U/items/e37c7242544fd1da81be
 - softだとステージングされた状態まで戻る
 - mixedだとステージング前まで戻される
 - hardだとコードそのものが削除される。
+
+### fetch
+
+pull=fetch+mergeである。
+
+remoteリポジトリの変更を取り込み一時的にFETCHHEADを作成する。
